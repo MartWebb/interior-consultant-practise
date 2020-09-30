@@ -181,7 +181,7 @@ footer {
     color: #a9a9a9;
 }
   
-@media (min-width: 580px) and (max-width: 980px) {
+@media (min-width: 740px) and (max-width: 980px) {
     .nav-menu  {
         display: none;
     }
