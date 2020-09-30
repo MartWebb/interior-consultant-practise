@@ -69,6 +69,7 @@ main {
     margin-top: 1.5em;
     margin-right: 1em;
     z-index: 2;
+    right: 30px;
 }
 
 .cancel .line:nth-child(1) {
